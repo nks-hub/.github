@@ -20,7 +20,7 @@ Open-source balíčky a rozšíření pro **Nette Framework**, TypeScript SDK a 
 
 | Balíček | Popis |
 |---------|-------|
-| [![rybbit](https://img.shields.io/npm/v/@nks-hub/rybbit?label=rybbit)](https://github.com/nks-hub/rybbit) | Privacy-first analytics SDK pro TypeScript — GA4 events, GTM bridge, zero cookies |
+| [![rybbit](https://img.shields.io/npm/v/@nks-hub/rybbit-ts?label=rybbit-ts)](https://github.com/nks-hub/rybbit-ts) | Privacy-first analytics SDK pro TypeScript — GA4 events, GTM bridge, zero cookies |
 
 ### Apps
 
@@ -38,7 +38,7 @@ composer require nks-hub/nette-sso
 composer require nks-hub/nette-ruian
 
 # TypeScript SDK (npm)
-npm install @nks-hub/rybbit
+npm install @nks-hub/rybbit-ts
 ```
 
 ### Kontakt
