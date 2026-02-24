@@ -22,6 +22,12 @@ Open-source balíčky a rozšíření pro **Nette Framework**, TypeScript SDK a 
 |---------|-------|
 | [![rybbit](https://img.shields.io/npm/v/@nks-hub/rybbit?label=rybbit)](https://github.com/nks-hub/rybbit) | Privacy-first analytics SDK pro TypeScript — GA4 events, GTM bridge, zero cookies |
 
+### Apps
+
+| Projekt | Popis | Platformy |
+|---------|-------|-----------|
+| [![rybbit-app](https://img.shields.io/github/v/release/nks-hub/rybbit-app?label=rybbit-app&include_prereleases)](https://github.com/nks-hub/rybbit-app) | Flutter mobilní klient pro [Rybbit](https://github.com/rybbit-io/rybbit) analytics — dashboard, sessions, events, Core Web Vitals | Android, iOS |
+
 ### Instalace
 
 ```bash
