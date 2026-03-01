@@ -24,7 +24,7 @@ Open-source balíčky a rozšíření pro **Nette Framework**, TypeScript SDK a 
 | [![texy-editor](https://img.shields.io/npm/v/@nks-hub/texy-editor?label=texy-editor)](https://github.com/nks-hub/texy-ts-editor) | TypeScript Texy editor — toolbar, live preview, themes, plugin system, zero jQuery | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) |
 | [![rybbit-ts](https://img.shields.io/npm/v/@nks-hub/rybbit-ts?label=rybbit-ts)](https://github.com/nks-hub/rybbit-ts) | Privacy-first analytics SDK — GA4 events, GTM bridge, zero cookies | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) |
 | [![rybbit-flutter-sdk](https://img.shields.io/pub/v/rybbit_flutter_sdk?label=rybbit-flutter-sdk)](https://github.com/nks-hub/rybbit-flutter-sdk) | Flutter SDK pro Rybbit Analytics — screen views, events, errors, user identification | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square) |
-| [![remote-cmd](https://img.shields.io/github/v/release/nks-hub/remote-cmd?label=remote-cmd&include_prereleases)](https://github.com/nks-hub/remote-cmd) | Remote command execution relay — MCP server + HTTP relay pro AI agenty | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) |
+| [![remote-cmd](https://img.shields.io/github/v/release/nks-hub/remote-cmd?label=remote-cmd&include_prereleases)](https://github.com/nks-hub/remote-cmd) | Remote command execution relay — MCP server + HTTP relay pro AI agenty | ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat-square) |
 
 ### Apps
 
