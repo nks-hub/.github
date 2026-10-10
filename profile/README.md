@@ -11,7 +11,7 @@
 
 | Package | Description | Lang | PHP |
 |---------|-------------|------|-----|
-| [![nette-cloudflare-r2](https://img.shields.io/packagist/v/nks-hub/nette-cloudflare-r2?label=nette-cloudflare-r2)](https://github.com/nks-hub/nette-cloudflare-r2) | Cloudflare R2 storage — S3 upload/download, multipart, presigned URLs, Tracy panel | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) | 7.4+ |
+| [![nette-cloudflare-r2](https://img.shields.io/packagist/v/nks-hub/nette-cloudflare-r2?label=nette-cloudflare-r2)](https://github.com/nks-hub/nette-cloudflare-r2) | Cloudflare R2 storage — S3 upload/download, multipart, presigned URLs, Tracy panel | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) | 8.1+ |
 | [![nette-ares](https://img.shields.io/packagist/v/nks-hub/nette-ares?label=nette-ares)](https://github.com/nks-hub/nette-ares) | Czech ARES API — company lookup by IČO or name, cached results | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) | 8.1+ |
 | [![nette-bankid](https://img.shields.io/packagist/v/nks-hub/nette-bankid?label=nette-bankid)](https://github.com/nks-hub/nette-bankid) | Czech BankID OAuth2/OIDC — identity verification via internet banking | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) | 8.1+ |
 | [![nette-sso](https://img.shields.io/packagist/v/nks-hub/nette-sso?label=nette-sso)](https://github.com/nks-hub/nette-sso) | SSO via OAuth2/OpenID Connect (Authentik) — role mapping, admin groups | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) | 8.1+ |
