@@ -62,6 +62,13 @@
 | [![webdev-console-binaries](https://img.shields.io/badge/webdev--console--binaries-repo-555?logo=github)](https://github.com/nks-hub/webdev-console-binaries) | [![Stars](https://img.shields.io/github/stars/nks-hub/webdev-console-binaries?style=flat-square&label=%E2%98%85)](https://github.com/nks-hub/webdev-console-binaries/stargazers) | Binary releases (PHP, Apache, Nginx, MariaDB, mkcert, …) built from upstream sources | ![GitHub Actions](https://img.shields.io/badge/-Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square) |
 | [![wdc-catalog-api](https://img.shields.io/github/v/release/nks-hub/wdc-catalog-api?label=wdc-catalog-api&include_prereleases)](https://github.com/nks-hub/wdc-catalog-api) | [![Stars](https://img.shields.io/github/stars/nks-hub/wdc-catalog-api?style=flat-square&label=%E2%98%85)](https://github.com/nks-hub/wdc-catalog-api/stargazers) | Binary catalog and config sync API for WebDev Console (FastAPI) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 
+## LiberNT
+
+| Project | Stars | Description | Lang |
+|---------|-------|-------------|------|
+| [![libernt-update](https://img.shields.io/badge/libernt--update-repo-555?logo=github)](https://github.com/nks-hub/libernt-update) | [![Stars](https://img.shields.io/github/stars/nks-hub/libernt-update?style=flat-square&label=%E2%98%85)](https://github.com/nks-hub/libernt-update/stargazers) | Updates an installed LiberNT system file by file from a signed feed, with restart-time replacement and rollback | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat-square) |
+| [![LiberNT](https://img.shields.io/badge/LiberNT-fork-555?logo=github)](https://github.com/nks-hub/LiberNT) | [![Stars](https://img.shields.io/github/stars/nks-hub/LiberNT?style=flat-square&label=%E2%98%85)](https://github.com/nks-hub/LiberNT/stargazers) | Fork of LiberNT carrying our kernel fixes, merged daily from upstream | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square) |
+
 ## Research
 
 | Project | Stars | Description | Lang |
